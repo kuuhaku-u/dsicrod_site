@@ -5,7 +5,10 @@
 body {
     margin: 0;
     padding: 12px;
+<<<<<<< HEAD
     background-color :#4d7b9c;
+=======
+>>>>>>> 663538734be655803faaf691d3c0aea7da4e11ea
 }
 body.hide-scroll::-webkit-scrollbar {
     display: none;
@@ -25,7 +28,11 @@ h2 {
     font-family: 'Herr Von Muellerhoff', cursive;
     font-size: 100px;
     font-weight: normal;
+<<<<<<< HEAD
     margin: 0 0 -40px;
+=======
+    margin: 0 0 -55px;
+>>>>>>> 663538734be655803faaf691d3c0aea7da4e11ea
 }
 h1, h3 {
     font-family: "Source Code Pro", sans-serif;
